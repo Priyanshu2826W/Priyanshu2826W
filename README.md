@@ -1,141 +1,114 @@
-# 👋 Hey, I'm Priyanshu Singh!
+# 👋 Hey there, I'm Priyanshu Singh!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Undergraduate+Student+%40+IIT+Patna;Research+Intern+%40+IIT+Roorkee;Data+Science+%7C+Web+Development;IoT+%7C+AI+%7C+Embedded+Systems;Designing+Technology+for+Real-World+Impact" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Undergraduate+Student+%40+IIT+Patna;Data+Science+%26+Web+Development;IoT+%26+Embedded+Systems;Completed+Research+Internship+%40+IIT+Roorkee;Building+Technology+for+Real-World+Impact" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:F107A3&height=180&section=header&text=BUILD%20%7C%20RESEARCH%20%7C%20INNOVATE&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Development&descAlignY=58&descSize=17" width="100%" alt="Animated gradient header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=BUILD%20%E2%80%A2%20RESEARCH%20%E2%80%A2%20INNOVATE&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Development&descAlignY=58&descSize=16" width="100%" alt="Animated profile header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu2826W&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/IIT-Patna-1E90FF?style=for-the-badge" alt="IIT Patna" />
-  <img src="https://img.shields.io/badge/Research-IIT%20Roorkee-00B894?style=for-the-badge" alt="IIT Roorkee research internship" />
+  🎓 Undergraduate Student · IIT Patna
+  <br/>
+  💻 Data Science · Web Development · IoT · Embedded Systems
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu2826W&style=flat-square&color=6C63FF&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-## 🧬 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm an **undergraduate student at the Indian Institute of Technology Patna (2024–2028)**, passionate about connecting technology, data, and innovation.
+I'm an undergraduate student at **Indian Institute of Technology Patna**, pursuing my degree from 2024 to 2028.
 
-My interests span **Data Science, Web Development, Artificial Intelligence, IoT, and Embedded Systems**. I enjoy exploring ideas, conducting research, designing prototypes, and developing practical solutions to real-world problems.
+I'm passionate about combining programming, data analysis, software development, and hardware innovation to build practical solutions to real-world problems.
 
-- 🔬 Research internship experience at **IIT Roorkee**
-- 🧠 Interested in research-driven innovation and STEM education
-- 💻 Building responsive and interactive web applications
-- 📊 Exploring data analysis, visualization, and data-driven solutions
-- 🤖 Developing IoT-based systems and hardware prototypes
-- 🏆 **9.41 CPI** through the third semester, as stated in my resume
+- 🎓 Undergraduate student at **IIT Patna**
+- 🔬 Completed a research internship at **IIT Roorkee**
+- 📊 Interested in data science, analytics, and visualization
+- 🌐 Developing responsive and interactive web applications
+- 🤖 Exploring IoT, embedded systems, and AI applications
+- 📈 Academic performance: **9.41 CPI** through the third semester, as stated in my resume
 
 ---
 
 ## 🔬 Research Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RESEARCH-INTERN-7B2FF7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research intern" />
-  <img src="https://img.shields.io/badge/INSTITUTE-IIT%20Roorkee-00A896?style=for-the-badge" alt="IIT Roorkee" />
-</p>
+### Research Internship — IIT Roorkee
 
-### 🧩 Traditional Games and STEM Education
+**Research Topic:** *Traditional Games and STEM Education: A Literature Review and Analysis of the Existing STEM Toys and Startup Ecosystem*
 
-**Research Internship — IIT Roorkee**
-
-*Research topic: “Traditional Games and STEM Education: A Literature Review and Analysis of the Existing STEM Toys and Startup Ecosystem”*
-
-My research internship focused on exploring the relationship between traditional games, STEM education, existing STEM toys, and the startup ecosystem.
+Completed a research internship exploring the connection between traditional games, STEM education, existing STEM toys, and the startup ecosystem.
 
 **Research & Development Highlights**
 
-- 📚 Literature review and analysis of traditional games in STEM education.
-- 🧸 Study of existing STEM toys and their educational relevance.
-- 🚀 Analysis of the STEM toy startup ecosystem.
+- 📚 Conducted a literature review on traditional games and STEM education.
+- 🧸 Explored existing STEM toys and their educational relevance.
+- 🚀 Studied the STEM toy startup ecosystem.
 - 🛠️ Designed a STEM prototype as part of the research experience.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="85%" alt="Research section divider" />
-</p>
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,bootstrap,mysql&theme=dark" alt="Programming and web development technologies" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,bootstrap,mysql&theme=dark" alt="Technical skills" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/IoT-Embedded_Systems-00A98F?style=for-the-badge" alt="IoT and embedded systems" />
-</p>
-
-| Category | Skills & Technologies |
+| Category | Technologies |
 |---|---|
-| 💻 Programming | Python, C, C++, JavaScript |
-| 🌐 Web Development | HTML, CSS, React, Bootstrap |
-| 📊 Data Science | Pandas, NumPy |
-| 📈 Visualization | Matplotlib, Seaborn, Power BI |
-| 🗄️ Database | SQL, Joins, Aggregations, Subqueries |
-| 📑 Data Analysis | Excel, Pivot Tables |
-| 🔌 IoT & Embedded Systems | Microcontrollers, Sensors, Circuit Design |
+| Programming | Python, C, C++, JavaScript |
+| Web Development | HTML, CSS, React, Bootstrap |
+| Data Science | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn, Power BI |
+| Database | SQL, Joins, Aggregations, Subqueries |
+| Data Analysis | Excel, Pivot Tables |
+| IoT & Embedded Systems | Microcontrollers, Sensors, Circuit Design |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 01 — Smart Vehicle Surveillance System
+### 🚗 Smart Vehicle Surveillance System
 
-<p>
-  <img src="https://img.shields.io/badge/DOMAIN-IoT-00A98F?style=flat-square" alt="IoT domain" />
-  <img src="https://img.shields.io/badge/FOCUS-Vehicle%20Security-1E90FF?style=flat-square" alt="Vehicle security" />
-</p>
+*IoT · Vehicle Security · Sensors*
 
-An IoT-based anti-theft system designed to improve two-wheeler security through sensor-based movement detection and alert mechanisms.
+Developed an IoT-based anti-theft system for two-wheelers using sensor-based movement detection and alert mechanisms.
 
-- Detects wheel and vehicle movements using sensors.
-- Uses buzzer and LED indicators to alert users.
+- Detects wheel and vehicle movements.
+- Uses buzzer and LED indicators for alerts.
 - Supports phone notifications for real-time monitoring.
 
-**[⚙️ Explore Repository →](https://github.com/Priyanshu2826W/anti-theft-vehicle-system)**
+**[Explore Project →](https://github.com/Priyanshu2826W/anti-theft-vehicle-system)**
 
 ---
 
-### 🤖 02 — Health Assistant Robot
+### 🤖 Health Assistant Robot
 
-<p>
-  <img src="https://img.shields.io/badge/DOMAIN-IoT%20%7C%20Data%20Science-7B2FF7?style=flat-square" alt="IoT and data science" />
-  <img src="https://img.shields.io/badge/FOCUS-Health%20Technology-FF69B4?style=flat-square" alt="Health technology" />
-</p>
+*IoT · Data Science · AI Applications*
 
-A smart health assistant designed to suggest lifestyle activities based on user input and sensor data.
+Designed a smart health assistant that provides lifestyle recommendations based on user input and sensor data.
 
 - Suggests post-meal activities to encourage healthier routines.
 - Integrates sensors and data processing.
-- Aims to provide personalized lifestyle insights and recommendations.
+- Aims to provide personalized health insights.
 
-**[⚙️ Explore Repository →](https://github.com/Priyanshu2826W/Health-Assistant)**
+**[Explore Project →](https://github.com/Priyanshu2826W/Health-Assistant)**
 
 ---
 
-### 🛒 03 — Hardware E-commerce Website
+### 🛒 Hardware E-commerce Website
 
-<p>
-  <img src="https://img.shields.io/badge/DOMAIN-Web%20Development-3178C6?style=flat-square" alt="Web development" />
-  <img src="https://img.shields.io/badge/FOCUS-Responsive%20UI-FF8C00?style=flat-square" alt="Responsive UI" />
-</p>
+*Web Development · Responsive UI*
 
-A responsive e-commerce website for hardware products, designed with a focus on structured product listings and user-friendly navigation.
+Built a responsive e-commerce website for hardware products using HTML, CSS, and JavaScript.
 
-- Organized product listings.
-- Responsive interface built with HTML and CSS.
-- Interactive features and smooth navigation using JavaScript.
-
-**Technologies:** HTML • CSS • JavaScript
+- Structured product listings.
+- User-friendly interface.
+- Smooth navigation and responsive design.
 
 ---
 
@@ -143,26 +116,21 @@ A responsive e-commerce website for hardware products, designed with a focus on 
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2826W&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2826W&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2826W&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2826W&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2826W&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" />
 </p>
 
 ---
 
-## 🏅 Certifications & Recognition
+## 🏆 Certifications & Recognition
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CampusX-Data%20Science%20Mentorship-6C63FF?style=for-the-badge" alt="CampusX Data Science mentorship" />
-  <img src="https://img.shields.io/badge/Apna%20College-Delta%20Full%20Stack-FF6B35?style=for-the-badge" alt="Apna College Delta Full Stack" />
-  <img src="https://img.shields.io/badge/Udemy-IoT%20Certification-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy IoT certification" />
-</p>
-
-<p align="center">
-  🏆 Received funding support from <b>IIT Patna</b> to develop an IoT project toward its potential as a startup.
-</p>
+- 📊 **Data Science Mentorship Program** — CampusX
+- 🌐 **Delta Full Stack Development Course** — Apna College
+- 🔌 **IoT Certification** — Udemy
+- 🚀 Received funding support from **IIT Patna** to develop an IoT project toward its potential as a startup.
 
 ---
 
@@ -170,16 +138,16 @@ A responsive e-commerce website for hardware products, designed with a focus on 
 
 <p align="center">
   <a href="mailto:singhpriyanshu3233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-singhpriyanshu3233%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-singhpriyanshu3233%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F107A3,50:7B2FF7,100:00C9FF&height=130&section=footer&animation=fadeIn" width="100%" alt="Gradient footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Profile footer" />
 </p>
 
 <p align="center">
-  <b>✨ RESEARCH • DEVELOP • INNOVATE ✨</b>
+  <b>✨ LEARN · BUILD · RESEARCH · INNOVATE ✨</b>
   <br/>
-  <i>Turning curiosity into code, research into ideas, and ideas into impact.</i>
+  <i>Turning ideas into technology and research into impact.</i>
 </p>
