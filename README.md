@@ -146,20 +146,6 @@ A responsive e-commerce website for hardware products, built with HTML, CSS, and
 - User-friendly interface.
 - Responsive layouts and smooth navigation.
 
----
-
-## 📈 `05` — GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2826W&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2826W&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2826W&theme=tokyo-night&hide_border=true&area=true&radius=8" width="98%" alt="GitHub activity graph" />
-</p>
-
----
 
 ## 🏅 `06` — Certifications & Recognition
 
